@@ -30,8 +30,8 @@ And the dependece on the learning rate, where we see that different rates give d
 
 Finally, there is an implementation where you can test with your online image. Here are some examples:
 
-![](image/is_cat1.png =50x50)
-![](image/is_cat2.png =50x50)
-![](image/is_cat3.png =50x50)
-![](image/is_cat4.png =50x50)
+![](image/is_cat1.png )
+![](image/is_cat2.png )
+![](image/is_cat3.png )
+![](image/is_cat4.png )
 
